@@ -969,10 +969,9 @@ fi
 ./ifnested.sh 
 ## OUTPUT
 ```
-sh: ./ifnested.sh: Permission denied
+/root The object exists, is it a file?
+No,/root it is not a file!
 ```
-
-
 # using numeric test comparisons
 cat > iftest.sh 
 ```bash
